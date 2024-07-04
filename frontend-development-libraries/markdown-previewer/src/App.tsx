@@ -28,7 +28,7 @@ export default function App() {
   return <div className="w-screen h-min-screen flex items-center flex-col justify-center gap-8 pt-20">
     <div className="bg-slate-300 max-w-4xl w-full h-60 flex flex-col border border-black shadow-xl shadow-slate-800">
       <label className="border-b border-black border-opacity-50 py-2 px-4 font-bold text-lg">Editor</label>
-      <textarea id="editor" className="bg-slate-300 w-full h-60 p-4" value={content} onChangeCapture={handlerChangeContent}></textarea>
+      <textarea id="editor" className="bg-slate-300 w-full h-60 p-4" value={content} onChange={handlerChangeContent}></textarea>
     </div>
     <div className="bg-slate-300 max-w-4xl w-full flex flex-col   shadow-xl shadow-slate-800 border border-black">
       <label className="border-b border-black border-opacity-50 py-2 px-4 font-bold text-lg">Preview</label>
