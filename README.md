@@ -1,10 +1,16 @@
 # Freecodecamp
 
-## Build a Random Quote Machine
+## Frontend Development Libraries
+
+### Random Quote Machine
 - Code: https://github.com/zenx5/freecodecamp/tree/main/frontend-development-libraries/random-quote-machine
 - Page: https://zenx5.github.io/freecodecamp/frontend-development-libraries/random-quote-machine/dist/index.html
 
-## Build a Markdown Previewer
+### Markdown Previewer
 - Code: https://github.com/zenx5/freecodecamp/tree/main/frontend-development-libraries/markdown-previewer
 - Page: https://zenx5.github.io/freecodecamp/frontend-development-libraries/markdown-previewer/dist/index.html
+
+### Drum Machine
+- Code: https://github.com/zenx5/freecodecamp/tree/main/frontend-development-libraries/drum-machine
+- Page: https://zenx5.github.io/freecodecamp/frontend-development-libraries/drum-machine/dist/index.html
 
