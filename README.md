@@ -17,3 +17,7 @@
 ### Javascript Calculator
 - Code: https://github.com/zenx5/freecodecamp/tree/main/frontend-development-libraries/javascript-calculator
 - Page: https://zenx5.github.io/freecodecamp/frontend-development-libraries/javascript-calculator/dist/index.html
+
+### 25+5 Clock
+- Code: https://github.com/zenx5/freecodecamp/tree/main/frontend-development-libraries/25-5-clock
+- Page: https://zenx5.github.io/freecodecamp/frontend-development-libraries/25-5-clock/dist/index.html
