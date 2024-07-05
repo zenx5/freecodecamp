@@ -14,3 +14,6 @@
 - Code: https://github.com/zenx5/freecodecamp/tree/main/frontend-development-libraries/drum-machine
 - Page: https://zenx5.github.io/freecodecamp/frontend-development-libraries/drum-machine/dist/index.html
 
+### Javascript Calculator
+- Code: https://github.com/zenx5/freecodecamp/tree/main/frontend-development-libraries/javascript-calculator
+- Page: https://zenx5.github.io/freecodecamp/frontend-development-libraries/javascript-calculator/dist/index.html
