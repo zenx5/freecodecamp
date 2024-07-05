@@ -19,15 +19,15 @@ export default function App() {
   },[])
 
   const pads = [
-    { label:"Q", src:'/Heater-1.mp3', description:'Heater 1' },
-    { label:"W", src:'/Heater-2.mp3', description:'Heater 2' },
-    { label:"E", src:'/Heater-3.mp3', description:'Heater 3' },
-    { label:"A", src:'/Heater-4_1.mp3', description:'Heater 4' },
-    { label:"S", src:'/Heater-6.mp3', description:'Clap' },
-    { label:"D", src:'/Dsc_Oh.mp3', description:'Open-HH' },
-    { label:"Z", src:'/Kick_n_Hat.mp3', description:'Kick-n\'-Hat' },
-    { label:"X", src:'/RP4_KICK_1.mp3', description:'Kick' },
-    { label:"C", src:'/Cev_H2.mp3', description:'Close-HH' },
+    { label:"Q", src:'./Heater-1.mp3', description:'Heater 1' },
+    { label:"W", src:'./Heater-2.mp3', description:'Heater 2' },
+    { label:"E", src:'./Heater-3.mp3', description:'Heater 3' },
+    { label:"A", src:'./Heater-4_1.mp3', description:'Heater 4' },
+    { label:"S", src:'./Heater-6.mp3', description:'Clap' },
+    { label:"D", src:'./Dsc_Oh.mp3', description:'Open-HH' },
+    { label:"Z", src:'./Kick_n_Hat.mp3', description:'Kick-n\'-Hat' },
+    { label:"X", src:'./RP4_KICK_1.mp3', description:'Kick' },
+    { label:"C", src:'./Cev_H2.mp3', description:'Close-HH' },
   ]
 
   const handlerPlay = (key:string) => {
@@ -45,7 +45,7 @@ export default function App() {
         </button> )}
       </div>
       <div className="h-full block ">
-        <div id="display" className="py-2 px-5 w-60 text-center rounded bg-blue-200 shadow-inner shadow-blue-400 text-blue-950">{current?.description}</div>
+        <div id="display" className="py-2 px-5 h-12 w-60 text-lg flex items-center justify-center text-center rounded bg-blue-200 shadow-inner shadow-blue-400 text-blue-950">{current?.description}</div>
       </div>
     </div>
 
